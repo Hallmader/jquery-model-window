@@ -69,7 +69,7 @@ $(function() {
                 speed: 500
             },
 
-            content: "你确定不干狗了？",
+            content: "你确定要关闭吗QAQ？",
             title: "我是标题喵",
             text4ConfirmBtn: "确定",
             text4CancelBtn: "取消",
@@ -108,7 +108,7 @@ $(function() {
 
             isInputPassWord:true,
             defaultInputText:"喵？",
-            placeHolderText:"你想说啥",
+            placeHolderText:"你想说什么呢？",
             title: "我是标题喵",
 
             text4PromptBtn:"确定",
